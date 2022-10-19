@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ete_project_2010991639/static/css/main.5a0d7e30.css",
+    "main.js": "/ete_project_2010991639/static/js/main.1aaf158f.js",
+    "static/js/787.87ed1895.chunk.js": "/ete_project_2010991639/static/js/787.87ed1895.chunk.js",
+    "index.html": "/ete_project_2010991639/index.html",
+    "main.5a0d7e30.css.map": "/ete_project_2010991639/static/css/main.5a0d7e30.css.map",
+    "main.1aaf158f.js.map": "/ete_project_2010991639/static/js/main.1aaf158f.js.map",
+    "787.87ed1895.chunk.js.map": "/ete_project_2010991639/static/js/787.87ed1895.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a0d7e30.css",
+    "static/js/main.1aaf158f.js"
+  ]
+}
